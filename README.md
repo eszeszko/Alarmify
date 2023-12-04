@@ -1,2 +1,2 @@
 # Alarmify
-Alarmify -- Spotify-integrated alarm clock app. 
+Alarmify: A Spotify-integrated alarm clock app. 
